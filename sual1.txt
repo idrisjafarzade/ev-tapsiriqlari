@@ -1,0 +1,2 @@
+ 1.proqramlasdirma nedir?
+proqramlasdirma her hansi bir meqsede catmaq ucun lazim olan emrler ardicilligini dile cevirme prosesidir.
